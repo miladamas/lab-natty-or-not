@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto pela fé ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Temos que viver por fé
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+(https://www.d-id.com)** 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Versiculo da bibila
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+https://studio.d-id.com/share?id=af36d315d6b277c1b65f4b2bb37f7ffd&utm_source=copy
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
