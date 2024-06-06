@@ -20,26 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto pela fé ;)
+# Título do Projeto 
+
+GOTAS DIARIA 
 
 ## 📒 Descrição
-Temos que viver por fé
+O PROJETO TEM COMO OBJETIVO CRIAR UM AVATAR, PASSANDO UMA MENSAGEM MOTIVACIONAL.
 
 ## 🤖 Tecnologias Utilizadas
 (https://www.d-id.com)** 
 
 ## 🧐 Processo de Criação
-Versiculo da bibila
+USEI O VIDNOZ AI - QUE POSSUI TEMPLATES EXECELENTES, UNINDO DIVERSOS RECURSOS.
 
 ## 🚀 Resultados
 
-https://studio.d-id.com/share?id=af36d315d6b277c1b65f4b2bb37f7ffd&utm_source=copy
+https://share.vidnoz.com/aivideo?id=5234023
 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
+GOSTEI MUITO, FOI UM DESAFIO INCRIVEL QUE ME FEZ SAIR DA ZONA DE CONFORTO DO MEU CONHECIMENTO.
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
